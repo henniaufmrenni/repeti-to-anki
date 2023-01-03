@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-html-parser": "^6.1.4"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "none"
+  }
+}
